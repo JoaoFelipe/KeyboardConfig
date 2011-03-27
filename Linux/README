@@ -1,0 +1,5 @@
+Esses arquivos adicionam um novo teclado baseado no BR(abnt2) para o X11, usando o XKB
+
+No Ubuntu 10.10,
+Copie os arquivos de xkb para a pasta /usr/share/X11/xkb
+
